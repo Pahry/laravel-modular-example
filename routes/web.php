@@ -14,8 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 // Default Laravel
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-Route::resource('/user',\App\Http\Controllers\UserController::class);
+Route::resource('/',\App\Http\Controllers\UserController::class);
+
