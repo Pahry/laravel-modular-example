@@ -8,3 +8,5 @@ Membuat Website Instansi Menggunakan laravel Modular
 
 Penjelasan Fitur
 User Controller Berisi semua halaman yang dapat diakses oleh user / pengunjung website
+
+Versi Laravel yang digunakan 9.27.0
