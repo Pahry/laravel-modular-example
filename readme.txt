@@ -5,4 +5,6 @@ Membuat Website Instansi Menggunakan laravel Modular
 4. dashboard admin terdiri dari beberapa Modul seperti :
     a. Manajamen User
     b. Manajemen Blog
-test after revert
+
+Penjelasan Fitur
+User Controller Berisi semua halaman yang dapat diakses oleh user / pengunjung website
