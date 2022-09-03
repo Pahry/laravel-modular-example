@@ -1,0 +1,11 @@
+{
+    "name": "ManajUser",
+    "alias": "manajuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ManajUser\\Providers\\ManajUserServiceProvider"
+    ],
+    "files": []
+}
