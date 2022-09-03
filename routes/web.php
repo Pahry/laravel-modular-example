@@ -20,3 +20,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::resource('/',\App\Http\Controllers\UserController::class);
 
+// Route::resource('/about',\App\Http\Controllers\UserController::class);
+Route::get('/about', function () {
+    return view('user/about');
+});
+
